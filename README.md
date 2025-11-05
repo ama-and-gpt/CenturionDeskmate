@@ -8,7 +8,7 @@ Inspired by:
 - CRT phosphor display behavior
 - Miniature “cyberdeck / terminal” aesthetic
 
-<img src="Photos/Centurion_1.jpg" width="460px">
+<img src="Photos/Centurion_2.jpeg" width="460px">
 
 ---
 
@@ -28,3 +28,4 @@ Inspired by:
 
 ## 🖥️ Dashboard Preview
 
+<img src="Photos/Centurion_1.jpeg" width="460px">
