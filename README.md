@@ -1,6 +1,8 @@
 # CenturionDeskmate
 ### A tiny retro mainframe terminal powered by Raspberry Pi Pico
 
+98% coded by ChatGPT (sorry, my software skills are almost zero)
+
 CenturionDeskMate is a miniature Centurion-style computer terminal with a working amber CRT-look UI, boot sequence, and live system monitor (CPU & RAM) fed from a host computer.
 
 Inspired by:
